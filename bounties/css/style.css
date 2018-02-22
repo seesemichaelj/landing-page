@@ -722,6 +722,7 @@ body {
     border-width: 1px;
     border-radius: 1px;
     padding: .75em 1.5em;
+    display: inline-block;
 }
 
 .social_icons{
